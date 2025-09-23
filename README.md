@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<h1 style="font-size:300%;"> How to make homemade mustard </h1>
+<a href="https://leitesculinaria.com/95287/recipes-homemade-yellow-mustard.html#h-how-to-make-mustard">Original Recipe</a>
+
+<a href="default.asp">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/French%27s_classic_yellow_mustard_%28cropped%29.jpg" alt="Step1" style="width:200px;height:312px;">
+</a>
+</head>
+<body>
+
+<body style="background-color:gold;">
+
+<h1 style="font-family:verdana;">Step 1 </h1>
+<p> Add water to a non-reactive saucepan with the mustard powder, salt, turmeric, garlic purée or powder, and paprika. Whisk the mixture until combined. </p>
+<a href="default.asp">
+  <img src="https://dri.es/files/cache/cooking-2009/broccoli-cream-soup-3-1280w.jpg" alt="Step1" style="width:312px;height:208px;">
+</a>
+
+
+
+<h1 style="font-family:verdana;">Step 2</h1>
+<p> Cook over medium-low heat until the mixture cooks down to a thick paste.
+ </p>
+<p style="color:Blue;"> Should be pasty and not watery </p>
+<p> Make sure it's medium-low heat! </p>
+<a href="default.asp">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Bignè2.JPG" alt="Step1" style="width:312px;height:208px;">
+</a>
+
+<h1 style="font-family:verdana;">Step 3 </h1>
+<p> Whisk the vinegar into the mustard paste, and cook until the mixture reaches the desired consistency. </p>
+<p style="color:green;"> Mix throughoughly </p>
+<h1 style="color:green;"> Last step: </h1>
+<p> Enjoy! </p>
+
+<a href="default.asp">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrD6d5p4WQw9fQZoGZEnWk3A3ifkYaY__wUA&s" alt="Mustard" style="width:312px;height:208px;">
+</a>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe id="js_video_iframe" src="https://jumpshare.com/embed/8ffe16kv4yKjjlNgdyJL" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+</body>
+</html>
